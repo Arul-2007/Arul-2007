@@ -79,7 +79,7 @@ Linux (Ubuntu) — after moving over from Windows.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arul-2007&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=Arul-2007&hide_border=true" alt="streak stats" />
 </p>
 
 <p align="center">
@@ -111,6 +111,20 @@ Linux (Ubuntu) — after moving over from Windows.
 <!--
 SETUP NOTES
 ============
+0. IF ANY CARD SHOWS AS A BROKEN IMAGE ICON: these widgets (stats, top
+   languages, streak, activity graph, trophies) are all free, community-run
+   services, not official GitHub features — they occasionally go down or
+   get rate-limited from heavy shared traffic. If one looks broken:
+     - Hard-refresh the page (Ctrl/Cmd+Shift+R) — GitHub caches these
+       images (via its "camo" proxy) and a stale broken cache is the most
+       common cause.
+     - Wait a few minutes and reload — most outages are brief.
+     - If it stays broken for more than a day, that specific service may be
+       down; the fix is to self-host your own copy of it on Vercel (each
+       project's GitHub repo has a one-click "Deploy to Vercel" button) and
+       swap the URL for your own deployment, which is far more reliable
+       than the shared public instance.
+
 1. STATS & LANGUAGE CARDS & STREAK & ACTIVITY GRAPH & TROPHIES & SKILL ICONS:
    no setup needed, they just work once your username (Arul-2007) is
    public. If a card looks empty, give it a minute — the stats service
